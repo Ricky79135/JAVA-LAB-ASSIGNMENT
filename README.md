@@ -2,6 +2,7 @@
 Anudip Lab Assignment (Lab-1 and Lab-2)
 
 LAB-1:
+
 1.Create a Java program that acts as a simple calculator.
 ● The program should prompt the user to enter two numbers and an operator (+, -,
 *, /).
@@ -15,6 +16,7 @@ withdrawal.
 ● Handle the scenario when the withdrawal amount is greater than the balance.
 
 LAB-2:
+
 1. Write a program that prompts the user to enter an integer. Handle the
 InputMismatchException that might occur if the user enters a non-integer value.
 2. Write a program that takes user input and converts it to an integer using
