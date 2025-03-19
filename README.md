@@ -9,6 +9,7 @@ LAB-1:
 ● Perform the corresponding calculation based on the operator.
 ● Handle potential exceptions, such as division by zero or invalid operator input.
 ● Display the result or an appropriate error message.
+
 2.Write a Java program to simulate a simple banking application.
 ● Create a class BankAccount with a balance and methods for deposit and
 withdrawal.
@@ -19,6 +20,7 @@ LAB-2:
 
 1. Write a program that prompts the user to enter an integer. Handle the
 InputMismatchException that might occur if the user enters a non-integer value.
-2. Write a program that takes user input and converts it to an integer using
+
+3. Write a program that takes user input and converts it to an integer using
 Integer.parseInt(). Handle the NumberFormatException and NullPointerException
 that might occur during the conversion.
