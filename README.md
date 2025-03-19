@@ -1,5 +1,6 @@
 # JAVA-LAB-ASSIGNMENT
 Anudip Lab Assignment (Lab-1 and Lab-2)
+
 LAB-1:
 1.Create a Java program that acts as a simple calculator.
 ● The program should prompt the user to enter two numbers and an operator (+, -,
